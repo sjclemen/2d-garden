@@ -35,3 +35,9 @@ Getting started
 third party libraries, notably JFace. For now, make sure to have the entire
 Eclipse RCP platform libraries if you'd like to build 2D Garden.
 
+Copyright
+---------
+
+All files (C) 2014-2016 Stephen Clement unless otherwise noted. Licensed
+under the GNU LGPL version 2.1 or higher, though it can only realistically
+be distributed under version 3 or higher due to Apache-licensed dependencies.
